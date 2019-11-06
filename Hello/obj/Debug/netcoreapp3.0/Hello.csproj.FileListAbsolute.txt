@@ -1,0 +1,11 @@
+/Users/kat/RiderProjects/Hello/Hello/bin/Debug/netcoreapp3.0/Hello
+/Users/kat/RiderProjects/Hello/Hello/bin/Debug/netcoreapp3.0/Hello.deps.json
+/Users/kat/RiderProjects/Hello/Hello/bin/Debug/netcoreapp3.0/Hello.runtimeconfig.json
+/Users/kat/RiderProjects/Hello/Hello/bin/Debug/netcoreapp3.0/Hello.runtimeconfig.dev.json
+/Users/kat/RiderProjects/Hello/Hello/bin/Debug/netcoreapp3.0/Hello.dll
+/Users/kat/RiderProjects/Hello/Hello/bin/Debug/netcoreapp3.0/Hello.pdb
+/Users/kat/RiderProjects/Hello/Hello/obj/Debug/netcoreapp3.0/Hello.csprojAssemblyReference.cache
+/Users/kat/RiderProjects/Hello/Hello/obj/Debug/netcoreapp3.0/Hello.AssemblyInfoInputs.cache
+/Users/kat/RiderProjects/Hello/Hello/obj/Debug/netcoreapp3.0/Hello.AssemblyInfo.cs
+/Users/kat/RiderProjects/Hello/Hello/obj/Debug/netcoreapp3.0/Hello.dll
+/Users/kat/RiderProjects/Hello/Hello/obj/Debug/netcoreapp3.0/Hello.pdb
